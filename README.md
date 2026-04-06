@@ -1,6 +1,6 @@
 # 👋 Hi, I’m Sumant!
 
-**IT Operations Veteran ➔ Cloud & DevOps Engineer | AWS Enthusiast** I have spent the last 5+ years mastering enterprise IT operations, resolving critical production issues, and ensuring strict compliance for global clients at top MNCs. Now, I am on a dedicated journey, upskilling full-time to design and deploy automated CI/CD pipelines, containerized architectures, and Infrastructure as Code (IaC) on AWS. 
+**IT Operations Veteran ➔ Cloud & DevOps Engineer | AWS Enthusiast** I have spent the last 6+ years mastering enterprise IT operations, resolving critical production issues, and ensuring strict compliance for global clients at top MNCs. Now, I am on a dedicated journey, upskilling full-time to design and deploy automated CI/CD pipelines, containerized architectures, and Infrastructure as Code (IaC) on AWS. 
 
 My goal is to transition from *operating* systems to *automating* them.
 
